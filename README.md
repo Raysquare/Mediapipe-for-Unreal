@@ -15,11 +15,11 @@ Demo video: https://www.youtube.com/watch?v=_gRGjGn6FQE
 
 ### Clone plugin
 
-`git clone https://github.com/wongfei/ue4-mediapipe-plugin.git`
+`git clone https://github.com/Raysquare/Mediapipe-for-Unreal.git`
 
 ### Clone wrapper
 
-`git clone -b unreal https://github.com/wongfei/mediapipe.git ue4-mediapipe-wrapper`
+`git clone https://github.com/Raysquare/mediapipe.git ue4-mediapipe-wrapper`
 
 ### Setup Mediapipe 
 1. Install MSYS2 and edit the %PATH% environment variable. If MSYS2 is installed to C:\msys64, add C:\msys64\usr\bin to your %PATH% environment variable. https://www.msys2.org/
